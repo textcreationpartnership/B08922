@@ -1,0 +1,184 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A description of the Turks prayers and fasts before they go to war with the Christians</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08922</idno>
+            <idno type="STC">Wing D1170A</idno>
+            <idno type="STC">ESTC R174515</idno>
+            <idno type="EEBO-CITATION">61296958</idno>
+            <idno type="OCLC">ocm 61296958</idno>
+            <idno type="VID">180525</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08922)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180525)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2832:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A description of the Turks prayers and fasts before they go to war with the Christians</title>
+               </titleStmt>
+               <extent>1 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1685?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imperfect: lacking all after first page.</note>
+                  <note>Date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Turks --  Social life and customs --  17th century.</term>
+               <term>Turkey --  History --  Ottoman Empire, 1288-1918 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:180525:1"/>
+            <pb facs="tcp:180525:1"/>
+            <head>
+               <hi>A</hi> Deſcription of the <hi>Turks</hi> Prayers and Faſts, before they go to <hi>War</hi> with the CHRISTIANS</head>
+            <p>THE Grand Signiour having Grounds to fear the GOD may have a Deſign to make uſe of the Rod of His Indignation, for the Chaſtiſement of the <hi>Ottoman</hi> Empire, and the <hi>Sultan</hi> to prevents his falling together with his Subjects into the Hands of the <hi>Chri<g ref="char:EOLhyphen"/>ſtians</hi> his Enemys, Ardently wiſhes that the Anger of GOD may be appaced by the means of the Proceſſion of the great <hi>Machomet</hi> for which Reaſon, he ſtrictly Commands, that all and every one of his Subjects Faſt twice a week, Viz. On <hi>Monday</hi> and <hi>Friday</hi> in the moſt Rigorous manner, abſtaining from all kind of Food and Drink till the Eevening; And on the ſaid Days, the High Prieſt, with his Eccleſiaſtical Aſſiſtants are Commanded, immediatly to appear Covered with Aſhes, and to go in Proceſſion through the Streets with Digected counte<g ref="char:EOLhyphen"/>nances, and cry alloud in the Ears of the Inhabitants of <hi>Mecca</hi> the following words, <hi>O GOD aſſiſt thy People.</hi>
+            </p>
+            <p>THE <hi>Sultan</hi> furthermore Commands, that <hi>Machomets</hi> Coffin be carryed into a publick place, and laid upon Four Golden Columns, Sarrounded with Twelve other Coffins full of their Saints Bones, that by their means the great <hi>Machomet</hi> may not faill on his part to pacify the Anger of GOD. The great <hi>Sultan</hi> Commands likewiſe, that all the Strangers <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat ſhall be in <hi>Mecca,</hi> together with the Inhabitants of that Town ſhall Seven times walk in Proceſ<g ref="char:EOLhyphen"/>ſion round that Tomb in the open Country, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rying, Houling and Groaning, and the <hi>Turkiſh</hi> Prieſts are on this Occaſion, to Speak to the People, and Repreſent to them the great miſ<g ref="char:EOLhyphen"/>fortunes the <hi>Ottoman</hi> Port has ſuffered for ſome Years paſt, and that, if they do not Repent, they will Experience, by their Ruin, the Wrath of GOD.</p>
+            <p>UPON theſe Days of Penitence and Proceſſion all Sorts of Muſick, <hi>&amp;c.</hi> Are forbidden amongſt the <hi>Turks.</hi>
+            </p>
+            <div type="part">
+               <head>The Order of Proceſſion.</head>
+               <p n="1">
+                  <hi>1ſt.</hi> 600 Men barefooted covered with Sackcloath and Aſhes, carrying in their Hands Weapons, made uſe of in the laſt War, ſome broken and ſome wh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le, <hi>&amp;c.</hi>
+               </p>
+               <p n="2">
+                  <hi>2dly.</hi> Next to them 300 Muſtimans, who are a ſort of Monks, having ſharp cutting Knives, with which they are to make Inciſions in their Bodies, crying out, Sighing and cut<g ref="char:EOLhyphen"/>ting their Breaſts.</p>
+               <p n="3">
+                  <hi>3ly,</hi> Then 6000 Men with Whips or Scourges, laſhing themſelves over their ſhoulders.</p>
+               <p n="4">
+                  <hi>4thly.</hi> The Tomb or C<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ffin of Mahomet, carryed by 30 <hi>Iſpohia,</hi> or Turkiſh Prieſts, <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>av<g ref="char:EOLhyphen"/>ing their Beards ſhav'd and bare-headed. That Tomb is to be ſurrounded and guarded by 300 <hi>Baſhaws</hi> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>heir Shimiters drawn who have orders to kill on the ſpot, ſuch who ſhall pre<g ref="char:EOLhyphen"/>ſume out of curi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y to look upon that Tomb, and the Bodies of ſuch who ſhall be killed on that account are to be thrown to the Dogs.</p>
+               <p n="5">
+                  <hi>5thly,</hi> Fifty Turkiſh Princes without any Ornament of Purple, bare headed, and beſmeared, with Chriſtian Blood, their left Hand tyed, and dragging with their right a Horſes Tail.</p>
+               <p n="6">
+                  <hi>6thly,</hi> 3000 Janiſſaries, who inſtead of their Arms, are to drag after them their Bucklers, crying ou<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in a lamentable Tone, <hi>Halla; Halla, Hu.</hi>
+               </p>
+               <p n="7">
+                  <hi>7thly,</hi> One of the chief Viziers is to cloſe the Pr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ceſſion, riding upon an Aſs bare headed in token of Humiliariôs, holding in his left Hand a Turkiſh Cap dipped in Chriſtian Blood, and in the right a Cane, wherewith he is to Strike his Nead, and is to deprecate the future Calamity in theſe Words. <hi>O great Prophet, aſſiſt us for obtaining the Grace of our God, that the Chriſtians may remain confounded.</hi>
+               </p>
+               <p n="8">
+                  <hi>8thly,</hi> After this they are to carry a Cheſt full of Aſpers or Silver Pieceſs of Money, to be thrown among the People by a Turk appointed for that purpoſe, but none is to be ſo audacious as to riſe f<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>om the Grownd, till the Proceſſion is gone by, on pain of loſeing his Head.</p>
+               <p n="9">
+                  <hi>9thly,</hi> Laſt of all c<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mes <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e an incredible Multitude of Turks, amongſt whom are the <hi>Pomites,</hi> who are to Scratch and tear their Faces, and at every hunder Paces they are to lift up their Eyes to Heaven, and <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y out, <hi>Ha<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ay Baccha, O God, asſiſt us that we may not</hi> 
+                  <gap reason="missing" extent="1+ pages">
+                     <desc>〈1… pages missing〉</desc>
+                  </gap>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
